@@ -1,0 +1,2 @@
+# nodeJS_matchMoudle
+使用nodejs实现数据库查找与数据匹配功能
